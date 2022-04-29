@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/augusto-cesar-silva-luis-6980a01b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 
-![Snake animation](https://github.com/AugustoCesarAC/AugustoCesarAC/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AugustoCesarAC/AugustoCesarAC/blob/main/github-user-contribution.svg)
   
 <p align="center"><strong> Visits </strong> since 04/29/22 :detective: <br>
 <p align="center"> 
