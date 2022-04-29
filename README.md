@@ -19,5 +19,5 @@
   
 <p align="center"><strong> Visits </strong> since 01/27/22 :detective: <br>
 <p align="center"> 
-<img alingn="center" src="https://profile-counter.glitch.me/WagnerCarmo/count.svg" />
+<img alingn="center" src="https://profile-counter.glitch.me/AugustoCesarAC/count.svg" />
 </p>
