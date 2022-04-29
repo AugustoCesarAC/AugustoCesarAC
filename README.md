@@ -1,7 +1,6 @@
 <p><h2> Hello World 👋 </h2>
 
 <h3>  "Eu ando devagar, mas nunca para trás" </h3>
-<img align="right" width="240px" height="240px""> 
 <p>                       - Abraham Lincoln </p>
 
 <div>
