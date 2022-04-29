@@ -17,7 +17,7 @@
 
 ![Snake animation](https://github.com/WagnerCarmo/WagnerCarmo/blob/output/github-contribution-grid-snake.svg)
   
-<p align="center"><strong> Visits </strong> since 01/27/22 :detective: <br>
+<p align="center"><strong> Visits </strong> since 04/29/22 :detective: <br>
 <p align="center"> 
 <img alingn="center" src="https://profile-counter.glitch.me/AugustoCesarAC/count.svg" />
 </p>
