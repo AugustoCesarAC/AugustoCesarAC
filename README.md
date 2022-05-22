@@ -43,7 +43,7 @@
 
 </div>
 
-![Snake animation](https://github.com/AugustoCesarAC/AugustoCesarAC/blob/main/github-user-contribution.svg)
+
   
 <p align="center"><strong> Visits </strong> since 04/29/22 :detective: <br>
 <p align="center"> 
