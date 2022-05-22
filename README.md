@@ -42,7 +42,13 @@
   <a href="https://www.youtube.com/channel/UC7r4vzx78tSlknFJg6Q7CeQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 </div>
+<div align="left">
+<a href="https://github.com/AugustoCesarAC"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoCesarAC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCesarAC&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
+![Snake animation](https://github.com/AugustoCesarAC/AugustoCesarAC/blob/output/github-contribution-grid-snake.svg)
 
   
 <p align="center"><strong> Visits </strong> since 04/29/22 :detective: <br>
