@@ -5,6 +5,15 @@
 
 <div>
   
+  
+ <div>
+ <a href="https://github.com/AugustoCesarAC">
+ <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCesarAC&layout=compact&langs_count=16&theme=dracula"/>
+ <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=AugustoCesarAC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   
+  
+</div>
+  
 <h3> Possuo conhecimento em : </h3>
     
 <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
